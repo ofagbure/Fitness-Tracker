@@ -1,5 +1,5 @@
 # Fitness Tracker
-An app that lets you track your exercises. You can visit the deployed site [here](https://ofagbure.github.io/Fitness-Tracker/)
+An app that lets you track your exercises. You can visit the deployed site [here](https://femi-fitness-tracker.herokuapp.com/)
 
 
 ## Table of Contents 
